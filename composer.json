@@ -1,0 +1,13 @@
+{
+    "name": "andy/phpunitgen-issue",
+    "authors": [
+        {
+            "name": "Andrei Bintintan",
+            "email": "andy@interpid.eu"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunitgen/console": "^1.3"
+    }
+}
